@@ -7,6 +7,7 @@ A scroll indicator to indicate the percentage / how far you are to the end of th
 We all have visited websites with scroll bar indicators to show how far we are until we reach the end of the questions or page. I have created an indicator where you can see how far you.
 
 [GitHub page](https://github.com/Digita1Panda/page-scroll-indicator)
+[Page Scroll Indicator Website](https://digita1panda.github.io/page-scroll-indicator/)
 
 ## Table of Contents
 
